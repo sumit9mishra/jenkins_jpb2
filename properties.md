@@ -1,0 +1,12 @@
+SNAP-REPO=sumit-snapsoft
+NEXUS-USER=admin
+NEXUS-PASS=abc123
+RELAESE-REPO=sumitprofile-release
+CENTRAL-REPO=sumit-maven-central
+NEXUS-GRP-REPS=sumit-maven-group
+NEXUSIP=10.182.0.29
+NEXUSPORT=8081
+
+xoxb-2581683220210-2581703595667-YVy7kX2s4izQkWLfPQo3PLhR
+
+2ef9cc8c43207b7df7ffd2f57d4ba82759072471
